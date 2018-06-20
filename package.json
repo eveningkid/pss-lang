@@ -1,7 +1,21 @@
 {
   "name": "pss-lang",
+  "description": "Prop-based StyleSheets for React.js",
   "version": "1.0.0",
+  "author": {
+    "name": "Arnaud Dellinger",
+    "url": "https://github.com/eveningkid"
+  },
   "main": "src/index.js",
   "license": "MIT",
-  "dependencies": {}
+  "repository": "eveningkid/pss-lang",
+  "dependencies": {},
+  "keywords": [
+    "react",
+    "pss",
+    "prop-based stylesheets",
+    "css-in-js",
+    "sass",
+    "javascript"
+  ]
 }
